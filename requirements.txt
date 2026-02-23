@@ -1,5 +1,3 @@
 flask
-librosa
-soundfile
-numpy
+pydub
 gunicorn
